@@ -1,4 +1,4 @@
-create user 'auth_user'@'localhost' identified by 'Qwerty@123';
+create user 'auth_user'@'localhost' identified by 'Password';
 
 create database auth;
 
